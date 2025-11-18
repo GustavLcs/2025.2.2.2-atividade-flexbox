@@ -119,3 +119,11 @@ Desenvolvido como material didático para ensino de HTML, CSS e Flexbox.
 ---
 
 **📌 Nota**: Este é um projeto educacional. Os dados e informações sobre oportunidades IFRN devem ser pesquisados e atualizados pelos estudantes.
+
+---
+
+## Exemplo de design
+
+![versão telefone](portal/mobile.png)
+![versão tablete](portal/tablet.png)
+![versão desktop](portal/desktop.png)

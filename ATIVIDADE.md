@@ -44,7 +44,7 @@ Criar uma landing page responsiva utilizando HTML5 e CSS3 com Flexbox, apresenta
 - [ ] Aplicar criatividade no design dos cards
 
 ### 5. CSS com Flexbox
-- [ ] Criar arquivo `styles.css` ou `style.css`
+- [ ] Criar arquivo `oportunidades.css`
 - [ ] Definir reset CSS básico ou usar normalize.css
 - [ ] Implementar variáveis CSS para cores e espaçamentos
 - [ ] Criar classes utilitárias com Flexbox
@@ -151,7 +151,7 @@ Organize seus arquivos da seguinte forma:
 projeto/
 ├── index.html
 ├── css/
-│   └── styles.css
+│   └── oportunidades.css
 ├── images/
 │   └── (suas imagens)
 ├── README.md
@@ -169,7 +169,8 @@ projeto/
 
 ## ⏰ Prazo e Forma de Entrega
 
-Consulte seu professor para informações sobre prazo e plataforma de entrega.
+Apenas commit e push no seu repositório _fork_.
+Se desejar, pode vincular a um projeto vercel.
 
 ---
 
